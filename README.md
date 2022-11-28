@@ -56,7 +56,7 @@
 --------------------------------------------------------------------------------
 **History:**
 Copied at https://kso.iiap.res.in/white_light and 
-https://github.com/bibhuraushan/KodaiArchivalData
+https://github.com/bibhuraushan/KoSoDigitalArchive
 
 **References:**
 ***
