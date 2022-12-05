@@ -4,7 +4,6 @@
 ***
 ***
 # White-light Data
-## Observation Statistics can be found [here](white-light/wl.html)
 ***
 ## **Extending the sunspot area series from Kodaikanal Solar Observator**
 ***
